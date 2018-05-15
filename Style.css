@@ -8,6 +8,15 @@ p {
   text-align: center;
 }
 
+.button {
+  border: 2px solid rgb(144, 238, 144);
+}
+
+.button:hover {
+  background-color: rgb(144, 238, 144);
+  border: 2px solid black;
+}
+
 .header {
   background-image: url("Nachos.jpg");
   background-position: center;
