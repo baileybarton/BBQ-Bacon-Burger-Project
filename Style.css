@@ -1,6 +1,8 @@
 h1 {
   background-color: rgb(144, 238, 144);
   margin: 0 auto;
+  padding: 20px;
+  width: 50%;
 }
 
 nav {
