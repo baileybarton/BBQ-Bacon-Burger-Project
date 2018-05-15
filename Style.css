@@ -13,4 +13,5 @@ nav {
   background-image: url("Nachos.jpg");
   background-position: center;
   background-size: cover;
+  height: 400px;
 }
