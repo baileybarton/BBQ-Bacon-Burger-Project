@@ -2,6 +2,10 @@ nav {
   text-align: center;
 }
 
+p {
+  text-align: center;
+}
+
 .header {
   background-image: url("Nachos.jpg");
   background-position: center;
