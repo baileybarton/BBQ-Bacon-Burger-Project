@@ -10,5 +10,7 @@ nav {
 }
 
 .header {
-  background-image: url("Nachos.jpg")
+  background-image: url("Nachos.jpg");
+  background-position: center;
+  background-size: cover;
 }
