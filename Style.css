@@ -10,6 +10,7 @@ p {
 
 .button {
   border: 2px solid rgb(144, 238, 144);
+  color: rgb(144, 238, 144);
 }
 
 .button:hover {
