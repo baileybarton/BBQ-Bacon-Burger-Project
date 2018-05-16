@@ -3,7 +3,7 @@ body {
 }
 
 html {
-  background-color: rgb(255, 200, 0);
+  background-color: rgb(255, 190, 0);
 }
 
 nav {
@@ -16,14 +16,14 @@ nav {
 p {
   font-size: 20px;
   line-height: 40px;
-  border-bottom: 2px dotted rgb(144, 238, 144);
+  border-bottom: 4px dotted rgb(144, 238, 144);
 }
 
 ul li {
   border: 1px solid black;
   border-radius: 6px;
   background-color: rgb(144, 238, 144);
-  color: white;
+  color: black;
   display: inline-block;
   padding: 10px 20px;
   height: 50px;
@@ -31,7 +31,7 @@ ul li {
 }
 
 .button {
-  border: 2px solid rgb(144, 238, 144);
+  border: 4px solid rgb(144, 238, 144);
   border-radius: 6px;
   color: rgb(144, 238, 144);
   display: block;
@@ -44,8 +44,8 @@ ul li {
 
 .button:hover {
   background-color: rgb(144, 238, 144);
-  border: 2px solid black;
-  color: white;
+  border: 4px solid black;
+  color: black;
 }
 
 .header {
@@ -57,7 +57,7 @@ ul li {
 
 .header h1 {
   background-color: rgb(144, 238, 144);
-  color: white;
+  color: black;
   font-size: 40px;
   margin: 0 auto;
   padding: 20px;
