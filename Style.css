@@ -12,6 +12,7 @@ nav {
 p {
   font-size: 20px;
   line-height: 40px;
+  border-bottom: 2px dotted rgb(144, 238, 144);
 }
 
 .button {
