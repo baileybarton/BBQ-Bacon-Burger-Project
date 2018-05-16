@@ -17,9 +17,13 @@ p {
 
 ul li {
   border: 1px solid black;
+  border-radius: 6px;
   background-color: rgb(144, 238, 144);
   color: black;
   display: inline-block;
+  padding: 10px 20px;
+  height: 50px;
+  width: 100px;
 }
 
 .button {
