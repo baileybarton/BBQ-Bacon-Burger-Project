@@ -28,6 +28,7 @@ p {
 .button:hover {
   background-color: rgb(144, 238, 144);
   border: 2px solid black;
+  color: white;
 }
 
 .header {
