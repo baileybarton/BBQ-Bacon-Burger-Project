@@ -25,6 +25,8 @@ ul li {
   background-color: rgb(144, 238, 144);
   color: black;
   display: inline-block;
+  list-style: none;
+  margin: 3px;
   padding: 10px 20px;
   width: 200px;
 }
