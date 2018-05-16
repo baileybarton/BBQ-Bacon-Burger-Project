@@ -20,7 +20,7 @@ p {
 }
 
 ul li {
-  border: 1px solid black;
+  border: 2px solid black;
   border-radius: 6px;
   background-color: rgb(144, 238, 144);
   color: black;
@@ -33,7 +33,7 @@ ul li {
 
 #nutrition .category {
   display: block;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 #nutrition .value {
