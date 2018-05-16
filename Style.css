@@ -32,6 +32,12 @@ ul li {
 
 #nutrition .category {
   display: block;
+  font-size: 30px;
+}
+
+#nutrition .value {
+  font-size: 40px;
+  font-weight: 600;
 }
 
 .button {
