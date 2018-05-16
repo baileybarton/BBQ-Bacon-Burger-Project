@@ -37,7 +37,7 @@ ul li {
 .button:hover {
   background-color: rgb(144, 238, 144);
   border: 2px solid black;
-  color: black;
+  color: white;
 }
 
 .header {
@@ -49,6 +49,7 @@ ul li {
 
 .header h1 {
   background-color: rgb(144, 238, 144);
+  color: white;
   font-size: 40px;
   margin: 0 auto;
   padding: 20px;
